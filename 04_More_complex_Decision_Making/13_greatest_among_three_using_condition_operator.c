@@ -1,0 +1,1 @@
+// Very easy use only simple logic and how to use conditional operator
