@@ -1,0 +1,1 @@
+/* very easy even without pow function*/
