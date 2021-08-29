@@ -9,8 +9,8 @@ int main()
     {
         printf("Enter the number");
         scanf("%d",&num);
-        if(j==0)//because for the first time  when  while loop run the max and min value could be any garbage value so its risky to 
-    //compare it with entered  number because you may get wrong answer 
+        if(j==0)/*because for the first time  when  while loop run the max and min value could be any garbage value so its risky to  
+        compare it with entered  number because you may get wrong answer*/ 
         {
             max=num;
             min=num;
