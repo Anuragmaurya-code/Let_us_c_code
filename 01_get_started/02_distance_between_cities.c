@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<windows.h>
 int main()
 {
     float kdis,cdis,mdis,idis,fdis;
@@ -14,8 +15,7 @@ int main()
     printf("Distance between city in centimetrs %f \n",cdis);
     printf("Distance between city in inches %f \n",idis);
     printf("Distance between city in feet %f \n",fdis);
-
     return 0;
-
+    
 
 }
